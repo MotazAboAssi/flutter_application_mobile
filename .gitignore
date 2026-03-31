@@ -12,6 +12,6 @@ store_app
 weather_app
 audioplayers
 delivery_of_orders
-just_audio
+# just_audio
 print.dart
-# test_fire_base
+test_fire_base
